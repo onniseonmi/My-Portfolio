@@ -1,18 +1,3 @@
 .App {
   text-align: center;
 }
-.myImage {
-  display: grid;
-  width: 100%;
-  height: 100vh;
-  place-items: center;
-  background-size: cover;
-  background-image: url(../src/Images/cool-background.png);
-  background-repeat: no-repeat;
-}
-.myImage img {
-  align-items: center;
-  mask-image: url(../src/Images/blob.svg);
-  background-size: cover;
-  background-repeat: no-repeat;
-}
